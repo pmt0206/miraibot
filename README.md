@@ -1,5 +1,5 @@
 <h1 align="center">
-	<a href="#"><img src="https://i.imgur.com/sxW5AWa.png" alt="Mirai V2"></a>
+	<a href="#"><img src="https://scontent-xsp1-3.xx.fbcdn.net/v/t1.6435-9/191368555_338030197735662_7707869542049179428_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=S3FuUZjCUeIAX-Li6Bg&tn=Yv8sSvSHWVDRZkiW&_nc_ht=scontent-xsp1-3.xx&oh=35d57e9a5ff670e5ee416c12041f830a&oe=60CBF6A4" alt="Mirai V2"></a>
 	Mirai V2
 </h1>
 <p align="center">
