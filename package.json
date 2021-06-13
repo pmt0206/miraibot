@@ -1,0 +1,52 @@
+{
+	"name": "miraiBot",
+	"version": "1.0.2",
+	"description": "A simply Facebook Messenger Bot like Discord.",
+	"main": "mirai.js",
+	"engines": {
+		"node": "12.18.2"
+	},
+	"scripts": {
+		"start": "node --trace-warnings mirai",
+		"pm2": "pm2 start pm2_apps.json && pm2 monit"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/catalizcs/miraiv2.git"
+	},
+	"keywords": [
+		"bot",
+		"facebook",
+		"projectmirai",
+		"messenger",
+		"mirai",
+		"catalizcs",
+		"spermlord"
+	],
+	"author": "CatalizCS & SpermLord",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/catalizcs/miraiv2/issues"
+	},
+	"homepage": "https://github.com/catalizcs/miraiv2#readme",
+	"dependencies": {
+		"axios": "",
+		"body-parser": "",
+		"canvas": "",
+		"chalk": "",
+		"child_process": "",
+		"fca-unofficial": "",
+		"figlet": "",
+		"fs-extra": "",
+		"moment": "",
+		"ms": "",
+		"npmlog": "",
+		"pm2": "",
+		"readline": "",
+		"semver": "",
+		"sequelize": "",
+		"sqlite3": "",
+		"string-similarity": "",
+		"totp-generator": ""
+	}
+}
